@@ -8,7 +8,9 @@ fkglResult: 13.58
 # 00.0 Welcome to LangChain Fundamentals
 
 Imagine building software that truly understands and interacts with human language — applications that can assist, inform, and engage in ways previously thought impossible. This is the power of **LangChain**, a cutting-edge framework designed to help developers create applications powered by large language models (LLMs).
-Small edit from Github!!
+Small edit from Github!! 
+
+![/.learn/assets/wjcaor14a.jpg](/.learn/assets/wjcaor14a.jpg)
 
 In this course, you'll explore how LangChain connects language models with real-world tools and data, enabling you to build smarter, more intuitive applications. From setting up your environment to creating your first chain and even building a basic chatbot, you'll gain practical skills that open doors to the future of AI-powered software.
 
