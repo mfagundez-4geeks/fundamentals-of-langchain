@@ -7,7 +7,8 @@ fkglResult: 10.32
 
 # 01.0 What is LangChain
 
-Imagine a tool that helps you build applications powered by **large language models (LLMs)** — software that can understand, generate, and interact with human language in intelligent ways. This is exactly what **LangChain** offers 👌.
+Imagine a tool that helps you build applications powered by **large language models (LLMs)** — software that can understand, generate, and interact with human language in intelligent ways. This is exactly what **LangChain** offers.
+And now you can modify the content of the lessons from Github!🎉🎉
 
 ![GENERATING: a dev student](/.learn/assets/ijñvae33665.jpg)
 
