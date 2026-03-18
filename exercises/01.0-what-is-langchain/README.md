@@ -9,7 +9,7 @@ fkglResult: 10.32
 
 Imagine a tool that helps you build applications powered by **large language models (LLMs)** — software that can understand, generate, and interact with human language in intelligent ways. This is exactly what **LangChain** offers 👌.
 
-![Generating: a dev student](/.learn/assets/ijñvae33665.jpg)
+![GENERATING: a dev student](/.learn/assets/ijñvae33665.jpg)
 
 ## What is LangChain?
 
