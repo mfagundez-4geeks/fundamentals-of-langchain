@@ -9,6 +9,8 @@ fkglResult: 10.32
 
 Imagine a tool that helps you build applications powered by **large language models (LLMs)** — software that can understand, generate, and interact with human language in intelligent ways. This is exactly what **LangChain** offers.
 
+![Generating: a dev student](/.learn/assets/ijñvae33665.jpg)
+
 ## What is LangChain?
 
 **LangChain** is a powerful framework designed to simplify the creation of applications that leverage language models. Instead of working directly with complex APIs or raw models, LangChain provides building blocks that help developers connect language models with other tools, data sources, and workflows.
